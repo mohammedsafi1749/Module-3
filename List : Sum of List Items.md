@@ -11,7 +11,6 @@ To write a Python program that calculates the **sum of all elements** in a list.
 ## 🧾 Program
 
     lis=[-10, 5] 
-
     print(sum(lis)))
 
 ## Output
